@@ -2,7 +2,8 @@
 '''
 This file contains tools and scripts for completing Lab 1 for Climate 410.
 
-To reproduce the graphics at the bottom of this file, uncomment the plt.show() lines.
+To reproduce the graphics at the bottom of this file, uncomment the fig, ax lines, the ax.pcolor() line, and the 
+plt.show() lines.
 '''
 
 
